@@ -1,4 +1,4 @@
-# A Minimalistic JavaScript Reference
+# Minimalistic JavaScript Reference
 
 Screenshot
 
